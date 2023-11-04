@@ -5,4 +5,4 @@ window.alert(" ادخل طول ضلع المربع حتى يتم احتساب م
 window.alert("مساحة المربع" + result1);
 console.log("مساحة المربع" + result1)
 window.alert("محيط المربع" + result2);
-console.log("محيط المربع" + result2)
+console.log("محيط المربع" + result2);
